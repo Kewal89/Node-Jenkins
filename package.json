@@ -1,0 +1,16 @@
+{
+  "name": "node-devops",
+  "version": "1.0.0",
+  "description": "CI Module Testing",
+  "main": "main.js",
+  "scripts": {
+    "build": "npm install && node main.js"
+  },
+  "repository": "https://github.com/Kewal89/Node-Jenkins.git",
+  "author": "Kewal Rathod <kewalrathod8@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
